@@ -1,7 +1,7 @@
 # SEM_DGM
 Materials for final discontinuous growth modeling presentation in SEM
 
-Connecting Github to R
+Connecting Github to R <br>
 http://happygitwithr.com/existing-github-last.html
 https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN
 
